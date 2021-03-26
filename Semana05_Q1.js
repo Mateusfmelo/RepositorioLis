@@ -10,4 +10,4 @@ function creatList(quantidadeLi, texto) {
   }
 }
 
-creatList(101, "Item");
+creatList(11, "Item");
